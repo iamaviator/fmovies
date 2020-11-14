@@ -53,7 +53,7 @@ $ python setup.py install
 
 Select the movie you want to watch:
 
-[![fmovies.png](https://s33.postimg.org/6kyypixzz/Screen_Shot_2017-11-23_at_10.04.04_AM.png)](https://postimg.org/image/b6v2xvjiz/)
+[![fmovies.png](https://i.postimg.cc/s35B5VvG/Screen-Shot-2017-11-23-at-10-04-04-AM.png)](https://postimg.org/image/b6v2xvjiz/)
 
 ## TODO
 
